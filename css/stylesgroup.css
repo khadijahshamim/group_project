@@ -99,3 +99,6 @@
           text-align: center;
           file-align: center;
         }
+        .form-control {
+          align: center
+        }
